@@ -5,7 +5,7 @@ python code for GSPANN assessment to split paragraphs based on page width
 "This Python program accepts a paragraph string and a page width as parameters and returns an array of left and right-justified strings with array indices
 
 ## Usage
-python main.py
+COMMAND TO EXECUTE : python main.py
 
 The split() method splits a string into a list.
 
