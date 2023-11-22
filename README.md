@@ -18,3 +18,6 @@ Add the page_width as input to variable "page_width_input". Depending on this in
 page_width_input = "{page_width_input}"
 
 Using a for loop, the output is printed with index.
+
+#VALIDATION IMAGE :
+<img width="510" alt="GSPANNAssessment-Validation Image" src="https://github.com/GITKarthik123/GSPANN-Assessment-Python/assets/50929767/10e0b470-08a7-4885-b07d-388515ae832b">
